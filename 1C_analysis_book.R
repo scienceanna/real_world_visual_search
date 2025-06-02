@@ -6,6 +6,49 @@ options(mc.cores = 8)
 
 theme_set(theme_bw())
 
+#######################################
+### sample size justification ###
+#######################################
+n <- 40
+
+sim_data <- tibble(
+  organised_absent = rnorm(n, 1.2, 0.5),
+  organised_present = rnorm(n, 1, 0.5),
+  unorganised_absent = rnorm(n, 1.4, 0.5),
+  unorganised_present = rnorm(n, 1.2, 0.5),
+  participant = 1:n
+  
+)
+
+sim_data <- sim_data %>%
+  pivot_longer(cols = organised_absent:unorganised_present, names_to = "condition", values_to = "rt") %>%
+  separate_wider_delim(condition, delim = "_", names = c("organisation", "target")) %>%
+  mutate(logrt = log(rt))
+
+my_priors <- c(prior(normal(1.5, 1), class = "b"),
+               prior(exponential(1), class = "sigma"))
+
+m_book <- brm(logrt ~ 0 + organisation:target + (1|participant), 
+              data = sim_data,
+              prior = my_priors)
+
+m_book %>% spread_draws(`b_organisationorganised:targetabsent`, `b_organisationunorganised:targetabsent`, 
+                        `b_organisationorganised:targetpresent`, `b_organisationunorganised:targetpresent`) %>%
+  rename(organised_TA = "b_organisationorganised:targetabsent", 
+         unorganised_TA = "b_organisationunorganised:targetabsent",
+         organised_TP = "b_organisationorganised:targetpresent",
+         unorganised_TP = "b_organisationunorganised:targetpresent") %>%
+  pivot_longer(-c(.chain, .iteration, .draw), names_to = "param", values_to = "b") %>%
+  separate(param, c("organisation", "target"), sep = "_") %>%
+  mutate(target = fct_recode(target, present = "TP", absent = "TA"),
+         target = fct_relevel(target, "present"))%>%
+  select(-.chain, -.iteration,) -> bs
+
+bs %>% pivot_wider(names_from = "organisation", values_from = "b") %>%
+  mutate(difference = unorganised - organised) -> diff
+
+sum(diff$difference > 0)/nrow(diff)
+
 ########################################
 #### bookshelf ####
 ########################################

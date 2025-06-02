@@ -7,6 +7,68 @@ options(mc.cores = 8)
 theme_set(theme_bw())
 
 ########################################
+# Sample size justification
+########################################
+
+# 1A: lego blocks
+# want to be able to detect at least a 20% increase in RT
+# This sort of roughly matches Sauter et al (2020)
+
+sim_data <- tibble(
+  cond1 = rnorm(10, 10, 1),
+  cond2 = rnorm(10, 12, 1),
+  participant = 1:10
+)
+
+sim_data <- sim_data %>%
+  pivot_longer(cols = cond1:cond2, names_to = "condition", values_to = "rt") %>%
+  mutate(logrt = log(rt))
+
+my_priors <- c(prior(normal(1.5, 1), class = "b"),
+               prior(exponential(1), class = "sigma"))
+
+m_sim <- brm(logrt ~ 0 + condition, 
+             data = sim_data,
+             prior = my_priors)
+
+# compare conditions
+get_variables(m_sim)
+
+m_sim %>% spread_draws(b_conditioncond1, b_conditioncond2) %>%
+  rename(cond1 = "b_conditioncond1", 
+         cond2 = "b_conditioncond2") %>%
+  mutate(d_comp = cond2 - cond1) %>%
+  select(-.chain, -.iteration,- .draw) -> bs
+
+sum(bs$d_comp > 0)/nrow(bs)
+
+# 1B: lego dots
+
+# slope from previous data looks to be about 0.18s increase per dot.
+
+n <- 10
+
+sim_data_dots <- tibble(
+  dots = rep(seq(40, 120, by = 20), n),
+  rt = 18 + (0.18 * dots) + rnorm(5*n, 0, 5),
+  participant = rep(1:n, each = 5)
+)
+
+ggplot(sim_data_dots, aes(dots, rt)) + geom_jitter() + geom_smooth(method = "lm")
+
+sim_data_dots <- sim_data_dots %>%
+  mutate(logrt = log(rt), dots100 = dots/100)
+
+m_dots <- brm(logrt ~ dots100 + (1|participant), 
+              data = sim_data_dots,
+              prior = my_priors,
+              chains = 4)
+
+summary(m_dots)
+
+ggplot(sim_data_dots, aes(dots100, logrt)) + geom_jitter() + geom_smooth(method = "lm")
+
+########################################
 # 1A: lego blocks
 ########################################
 
