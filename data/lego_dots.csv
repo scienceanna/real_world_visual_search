@@ -1,0 +1,214 @@
+Participant,rt,difficulty,type
+1,26,easy,squares
+2,15,easy,corners
+3,14,easy,squares
+4,,easy,minions
+5,24,easy,squares
+6,14,easy,corners
+7,28,easy,minions
+8,24,easy,minions
+9,29,easy,squares
+10,18,easy,corners
+11,30,easy,minions
+12,34,easy,squares
+13,31,easy,corners
+14,25,easy,minions
+15,25,easy,squares
+16,32,easy,corners
+17,23,easy,minions
+18,21,easy,squares
+19,23,easy,corners
+20,18,easy,minions
+21,17,easy,squares
+22,,easy,corners
+23,20,easy,minions
+24,18,easy,squares
+25,21,easy,corners
+26,32,easy,minions
+27,27,easy,squares
+28,40,easy,corners
+29,36,easy,minions
+30,24,easy,squares
+31,33,easy,corners
+32,30,easy,minions
+33,41,easy,squares
+34,31,easy,corners
+35,36,easy,minions
+36,23,easy,squares
+37,40,easy,corners
+38,17,easy,minions
+39,31,easy,squares
+40,36,easy,corners
+41,16,easy,minions
+42,19,easy,squares
+43,28,easy,corners
+44,25,easy,minions
+45,22,easy,squares
+46,17,easy,corners
+47,20,easy,minions
+48,31,easy,squares
+49,22,easy,corners
+50,32,easy,minions
+51,30,easy,squares
+1,28,medium,corners
+2,29,medium,minions
+3,14,medium,corners
+4,25,medium,squares
+5,29,medium,corners
+6,16,medium,minions
+7,33,medium,squares
+8,30,medium,squares
+9,34,medium,minions
+10,21,medium,squares
+11,43,medium,corners
+12,39,medium,minions
+13,28,medium,squares
+14,32,medium,corners
+15,29,medium,minions
+16,42,medium,squares
+17,22,medium,corners
+18,19,medium,minions
+19,22,medium,squares
+20,27,medium,corners
+21,18,medium,minions
+22,,medium,squares
+23,27,medium,corners
+24,18,medium,minions
+25,21,medium,squares
+26,31,medium,corners
+27,29,medium,minions
+28,28,medium,squares
+29,31,medium,corners
+30,25,medium,minions
+31,30,medium,squares
+32,35,medium,corners
+33,38,medium,minions
+34,37,medium,squares
+35,35,medium,corners
+36,29,medium,minions
+37,38,medium,squares
+38,19,medium,corners
+39,26,medium,minions
+40,93,medium,squares
+41,20,medium,corners
+42,19,medium,minions
+43,31,medium,squares
+44,23,medium,corners
+45,21,medium,minions
+46,14,medium,squares
+47,20,medium,corners
+48,32,medium,minions
+49,22,medium,squares
+50,33,medium,corners
+51,35,medium,minions
+1,,difficult ,
+2,30,difficult ,squares
+3,20,difficult ,minions
+4,35,difficult ,corners
+5,26,difficult ,minions
+6,22,difficult ,squares
+7,38,difficult ,corners
+8,45,difficult ,corners
+9,30,difficult ,corners
+10,20,difficult ,minions
+11,30,difficult ,squares
+12,43,difficult ,corners
+13,32,difficult ,minions
+14,33,difficult ,squares
+15,29,difficult ,corners
+16,34,difficult ,minions
+17,20,difficult ,squares
+18,29,difficult ,corners
+19,22,difficult ,minions
+20,16,difficult ,squares
+21,23,difficult ,corners
+22,,difficult ,minions
+23,19,difficult ,squares
+24,18,difficult ,corners
+25,21,difficult ,minions
+26,33,difficult ,squares
+27,29,difficult ,corners
+28,39,difficult ,minions
+29,31,difficult ,squares
+30,34,difficult ,corners
+31,35,difficult ,minions
+32,30,difficult ,squares
+33,47,difficult ,corners
+34,27,difficult ,minions
+35,33,difficult ,squares
+36,29,difficult ,corners
+37,41,difficult ,minions
+38,17,difficult ,squares
+39,26,difficult ,corners
+40,65,difficult ,minions
+41,20,difficult ,squares
+42,24,difficult ,corners
+43,32,difficult ,minions
+44,28,difficult ,squares
+45,21,difficult ,corners
+46,19,difficult ,minions
+47,20,difficult ,squares
+48,39,difficult ,corners
+49,25,difficult ,minions
+50,44,difficult ,squares
+51,31,difficult ,corners
+52,73,easy,squares
+52,52,medium,minions
+52,48,difficult ,corners
+53,24,easy,corners
+53,18,medium,squares
+53,23,difficult ,minions
+54,18,easy,minions
+54,25,medium,corners
+54,18,difficult ,squares
+55,19,easy,squares
+55,22,medium,minions
+55,23,difficult ,corners
+56,18,easy,corners
+56,14,medium,squares
+56,23,difficult ,minions
+57,31,easy,minions
+57,39,medium,corners
+57,27,difficult ,squares
+58,14,easy,squares
+58,18,medium,minions
+58,27,difficult ,corners
+59,22,easy,corners
+59,29,medium,squares
+59,27,difficult ,minions
+60,21,easy,minions
+60,21,medium,corners
+60,22,difficult ,squares
+61,22,easy,squares
+61,17,medium,minions
+61,24,difficult ,corners
+62,25,easy,corners
+62,24,medium,squares
+62,30,difficult ,minions
+63,26,easy,minions
+63,23,medium,corners
+63,18,difficult ,squares
+64,12,easy,squares
+64,17,medium,minions
+64,18,difficult ,corners
+65,21,easy,corners
+65,23,medium,squares
+65,25,difficult ,minions
+66,25,easy,minions
+66,25,medium,corners
+66,30,difficult ,squares
+67,34,easy,squares
+67,34,medium,minions
+67,37,difficult ,corners
+68,24,easy,corners
+68,22,medium,squares
+68,23,difficult ,minions
+69,21,easy,minions
+69,18,medium,corners
+69,19,difficult ,squares
+70,27,easy,squares
+70,35,medium,minions
+70,37,difficult ,corners
+71,26,easy,corners
+71,27,medium,squares
+71,21,difficult ,minions

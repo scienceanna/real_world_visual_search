@@ -1,0 +1,882 @@
+Participant,LookedAt,Time
+9,Instruction 1,1
+9,Lego,4
+9,Instruction 1,5
+9,Lego,5
+9,Instruction 1,8
+9,Lego,10
+9,Instruction 1,13
+9,Lego,15
+9,Instruction 1,17
+9,Lego,18
+9,Instruction 2,19
+9,Lego,22
+9,Building / Hand,24
+9,Instruction 2,25
+9,Building / Hand,26
+9,Turned page,32
+10,Instruction 1,1
+10,Lego,2
+10,Instruction 2,3
+10,Lego,4
+10,Building / Hand,5
+10,Lego,7
+10,Building / Hand,9
+10,Lego,11
+10,Building / Hand,13
+10,Turned page,17
+11,Instruction 1,1
+11,Instruction 2,2
+11,Instruction 1,3
+11,Lego,4
+11,Instruction 1,4
+11,Instruction 2,5
+11,Lego,6
+11,Building / Hand,7
+11,Instruction 2,7
+11,Lego,8
+11,Building / Hand,9
+11,Instruction 2,11
+11,Building / Hand,12
+11,Lego,14
+11,Instruction 2,15
+11,Building / Hand,16
+11,Instruction 2,17
+11,Instruction 1,18
+11,Turned page,18
+12,Instruction 1,1
+12,Instruction 2,2
+12,Instruction 1,2
+12,Lego,3
+12,Instruction 1,5
+12,Instruction 2,6
+12,Lego,6
+12,Building / Hand,8
+12,Lego,9
+12,Building / Hand,11
+12,Lego,14
+12,Instruction 1,16
+12,Instruction 2,17
+12,Building / Hand,17
+12,Instruction 2,19
+12,Building / Hand,20
+12,Instruction 2,21
+12,Lego,22
+12,Instruction 1,23
+12,Instruction 2,24
+12,Lego,25
+12,Building / Hand,26
+12,Instruction 2,27
+12,Instruction 1,28
+12,Turned page,28
+13,Instruction 1,1
+13,Lego,2
+13,Instruction 1,4
+13,Lego,7
+13,Instruction 1,8
+13,Lego,9
+13,Instruction 1,11
+13,Instruction 2,12
+13,Lego,13
+13,Instruction 2,15
+13,Lego,16
+13,Instruction 2,18
+13,Lego,19
+13,Instruction 2,22
+13,Building / Hand,23
+13,Instruction 2,24
+13,Building / Hand,25
+13,Instruction 1,28
+13,Turned page,29
+15,Instruction 2,1
+15,Lego,2
+15,Instruction 1,3
+15,Lego,4
+15,Instruction 2,5
+15,Lego,5
+15,Instruction 2,6
+15,Lego,7
+15,Building / Hand,9
+15,Instruction 2,9
+15,Lego,10
+15,Instruction 1,13
+15,Building / Hand,14
+15,Lego,17
+15,Instruction 1,18
+15,Lego,19
+15,Building / Hand,19
+15,Instruction 1,20
+15,Turned page,21
+16,Instruction 1,9
+16,Lego,13
+16,Instruction 1,14
+16,Lego,16
+16,Instruction 1,17
+16,Lego,19
+16,Instruction 1,20
+16,Instruction 2,24
+16,Building / Hand,25
+16,Lego,27
+16,Building / Hand,28
+16,Instruction 2,29
+16,Instruction 1,29
+16,Lego,32
+16,Instruction 1,34
+16,Building / Hand,36
+16,Instruction 2,37
+16,Instruction 1,37
+16,Turned page,38
+17,Instruction 1,0
+17,Lego,1
+17,Instruction 1,3
+17,Instruction 2,3
+17,Lego,4
+17,Building / Hand,6
+17,Lego,12
+17,Instruction 2,13
+17,Building / Hand,14
+17,Lego,15
+17,Building / Hand,16
+17,Instruction 2,17
+17,Turned page,18
+18,Instruction 1,4
+18,Lego,5
+18,Instruction 1,5
+18,Instruction 2,6
+18,Instruction 1,7
+18,Instruction 2,7
+18,Lego,8
+18,Instruction 2,8
+18,Lego,9
+18,Instruction 2,11
+18,Building / Hand,13
+18,Instruction 1,23
+18,Instruction 2,23
+18,Turned page,24
+19,Instruction 1,1
+19,Lego,2
+19,Instruction 1,2
+19,Instruction 2,3
+19,Lego,4
+19,Instruction 2,6
+19,Building / Hand,7
+19,Lego,9
+19,Building / Hand,10
+19,Lego,11
+19,Building / Hand,12
+19,Instruction 2,13
+19,Turned page,14
+20,Instruction 1,1
+20,Lego,3
+20,Instruction 1,3
+20,Lego,4
+20,Instruction 2,5
+20,Building / Hand,5
+20,Lego,7
+20,Building / Hand,8
+20,Lego,10
+20,Building / Hand,11
+20,Instruction 2,12
+20,Turned page,14
+22,Instruction 2,0
+22,Instruction 1,1
+22,Lego,1
+22,Instruction 1,2
+22,Instruction 2,4
+22,Instruction 1,9
+22,Instruction 2,14
+22,Instruction 1,15
+22,Instruction 2,16
+22,Instruction 1,17
+22,Turned page,18
+22,Instruction 2,21
+22,Lego,23
+22,Instruction 1,23
+22,Building / Hand,25
+22,Lego,26
+22,Instruction 2,26
+22,Lego,27
+22,Instruction 2,27
+22,Lego,28
+22,Instruction 2,30
+22,Lego,31
+22,Instruction 2,31
+22,Lego,33
+22,Instruction 2,34
+22,Lego,36
+22,Instruction 2,37
+22,Lego,37
+22,Building / Hand,38
+22,Instruction 2,39
+22,Lego,41
+22,Building / Hand,41
+22,Instruction 2,42
+22,Building / Hand,43
+22,Lego,43
+22,Instruction 2,47
+22,Building / Hand,49
+22,Instruction 2,50
+22,Building / Hand,50
+22,Instruction 2,52
+22,Building / Hand,52
+22,Instruction 2,52
+22,Building / Hand,53
+22,Instruction 2,57
+22,Building / Hand,58
+22,Lego,61
+22,Instruction 2,64
+22,Lego,66
+22,Instruction 2,68
+22,Building / Hand,69
+22,Instruction 2,71
+22,Building / Hand,71
+22,Instruction 2,77
+22,Building / Hand,79
+22,Instruction 2,90
+22,Lego,91
+22,Building / Hand,93
+22,Instruction 2,94
+22,Building / Hand,94
+22,Lego,95
+22,Instruction 2,96
+22,Building / Hand,97
+22,Instruction 2,99
+22,Building / Hand,100
+22,Instruction 1,100
+22,Instruction 2,101
+22,Instruction 1,102
+22,Turned page,103
+23,Instruction 1,5
+23,Lego,6
+23,Instruction 2,8
+23,Instruction 1,11
+23,Lego,11
+23,Instruction 1,17
+23,Lego,18
+23,Instruction 1,19
+23,Building / Hand,23
+23,Lego,25
+23,Instruction 2,30
+23,Instruction 1,32
+23,Lego,32
+23,Instruction 1,33
+23,Instruction 2,34
+23,Instruction 1,35
+23,Lego,36
+23,Building / Hand,39
+23,Instruction 1,41
+23,Instruction 2,41
+23,Lego,42
+23,Instruction 1,43
+23,Lego,44
+23,Instruction 2,44
+23,Instruction 1,45
+23,Instruction 2,48
+23,Lego,51
+23,Instruction 2,52
+23,Lego,52
+23,Building / Hand,56
+23,Instruction 2,58
+23,Building / Hand,60
+23,Instruction 2,65
+23,Instruction 1,66
+23,Turned page,67
+24,Instruction 1,0
+24,Instruction 2,1
+24,Lego,1
+24,Instruction 1,2
+24,Lego,3
+24,Instruction 2,3
+24,Lego,4
+24,Instruction 2,6
+24,Instruction 1,8
+24,Building / Hand,9
+24,Instruction 2,10
+24,Lego,13
+24,Building / Hand,15
+24,Lego,16
+24,Instruction 2,17
+24,Building / Hand,19
+24,Lego,22
+24,Instruction 2,23
+24,Building / Hand,23
+24,Instruction 1,26
+24,Turned page,28
+25,Instruction 1,0
+25,Lego,1
+25,Instruction 2,2
+25,Lego,3
+25,Instruction 1,5
+25,Building / Hand,5
+25,Lego,6
+25,Instruction 2,10
+25,Turned page,12
+26,Lego,2
+26,Instruction 1,6
+26,Instruction 2,8
+26,Instruction 1,9
+26,Turned page,10
+26,Lego,13
+26,Instruction 1,14
+26,Lego,15
+26,Instruction 1,17
+26,Lego,18
+26,Instruction 1,19
+26,Lego,20
+26,Instruction 1,21
+26,Lego,22
+26,Instruction 1,23
+26,Instruction 2,24
+26,Building / Hand,25
+26,Instruction 2,26
+26,Lego,27
+26,Instruction 2,29
+26,Lego,30
+26,Building / Hand,32
+26,Lego,33
+26,Instruction 2,33
+26,Instruction 1,34
+26,Lego,35
+26,Instruction 1,36
+26,Building / Hand,37
+26,Lego,38
+26,Building / Hand,40
+26,Instruction 2,41
+26,Instruction 1,41
+26,Turned page,42
+27,Instruction 2,0
+27,Instruction 1,1
+27,Turned page,1
+27,Instruction 2,6
+27,Lego,10
+27,Instruction 1,16
+27,Lego,17
+27,Instruction 1,17
+27,Instruction 2,18
+27,Instruction 1,21
+27,Lego,22
+27,Instruction 1,26
+27,Lego,27
+27,Instruction 1,28
+27,Instruction 2,29
+27,Instruction 1,30
+27,Lego,33
+27,Instruction 1,34
+27,Instruction 2,35
+27,Lego,36
+27,Instruction 2,37
+27,Lego,40
+27,Building / Hand,43
+27,Lego,45
+27,Building / Hand,46
+27,Lego,47
+27,Instruction 2,48
+27,Building / Hand,48
+27,Lego,49
+27,Building / Hand,50
+27,Instruction 2,51
+27,Instruction 1,52
+27,Turned page,53
+28,Instruction 1,0
+28,Lego,5
+28,Instruction 1,7
+28,Lego,9
+28,Building / Hand,11
+28,Lego,17
+28,Instruction 1,22
+28,Building / Hand,25
+28,Lego,26
+28,Building / Hand,26
+28,Instruction 2,29
+28,Lego,31
+28,Instruction 1,35
+28,Building / Hand,37
+28,Lego,45
+28,Building / Hand,48
+28,Instruction 1,50
+28,Lego,51
+28,Instruction 1,55
+28,Lego,55
+28,Instruction 2,58
+28,Instruction 1,60
+28,Lego,61
+28,Instruction 1,67
+28,Building / Hand,68
+28,Lego,69
+28,Instruction 1,71
+28,Building / Hand,76
+28,Instruction 1,79
+28,Building / Hand,80
+28,Lego,83
+28,Building / Hand,84
+28,Instruction 2,86
+28,Instruction 1,86
+28,Building / Hand,88
+28,Instruction 2,92
+28,Instruction 1,93
+28,Turned page,93
+32,Lego,0
+32,Instruction 1,1
+32,Lego,3
+32,Building / Hand,5
+32,Instruction 2,7
+32,Building / Hand,7
+32,Instruction 2,9
+32,Lego,10
+32,Building / Hand,12
+32,Instruction 2,12
+32,Lego,13
+32,Instruction 2,15
+32,Building / Hand,17
+32,Lego,17
+32,Instruction 2,19
+32,Lego,20
+32,Building / Hand,20
+32,Instruction 2,21
+32,Building / Hand,22
+32,Lego,24
+32,Instruction 2,25
+32,Lego,26
+32,Instruction 2,28
+32,Lego,29
+32,Building / Hand,30
+32,Instruction 2,35
+32,Building / Hand,36
+32,Lego,37
+32,Instruction 2,38
+32,Lego,39
+32,Instruction 2,41
+32,Building / Hand,42
+32,Instruction 2,52
+32,Building / Hand,53
+32,Instruction 2,56
+32,Building / Hand,57
+32,Lego,65
+32,Building / Hand,65
+32,Lego,68
+32,Instruction 2,69
+32,Building / Hand,70
+32,Instruction 2,72
+32,Building / Hand,74
+32,Instruction 2,75
+32,Instruction 1,76
+32,Building / Hand,77
+32,Lego,78
+32,Building / Hand,84
+32,Instruction 2,85
+32,Building / Hand,86
+32,Instruction 2,89
+32,Lego,90
+32,Instruction 2,91
+32,Instruction 1,92
+32,Lego,94
+32,Building / Hand,96
+32,Lego,98
+32,Building / Hand,101
+32,Lego,105
+32,Building / Hand,107
+32,Instruction 2,108
+32,Building / Hand,110
+32,Lego,111
+32,Instruction 2,114
+32,Turned page,114
+32,Instruction 2,118
+32,Building / Hand,119
+32,Lego,120
+32,Instruction 2,121
+32,Instruction 1,122
+32,Lego,123
+32,Instruction 2,127
+32,Lego,128
+32,Instruction 2,129
+32,Lego,131
+32,Instruction 2,136
+32,Building / Hand,142
+32,Instruction 2,143
+32,Turned page,144
+35,Instruction 1,1
+35,Lego,6
+35,Instruction 1,7
+35,Instruction 2,8
+35,Instruction 1,9
+35,Lego,11
+35,Instruction 1,11
+35,Lego,12
+35,Instruction 1,13
+35,Instruction 2,14
+35,Lego,15
+35,Instruction 2,15
+35,Building / Hand,16
+35,Lego,18
+35,Instruction 1,18
+35,Instruction 2,18
+35,Lego,19
+35,Building / Hand,20
+35,Lego,21
+35,Building / Hand,23
+35,Instruction 1,24
+35,Instruction 2,24
+35,Instruction 1,25
+35,Instruction 2,26
+35,Turned page,26
+37,Instruction 1,0
+37,Instruction 2,1
+37,Lego,2
+37,Building / Hand,3
+37,Instruction 2,4
+37,Building / Hand,5
+37,Lego,6
+37,Instruction 2,6
+37,Instruction 1,8
+37,Instruction 2,8
+37,Instruction 1,9
+37,Building / Hand,9
+37,Lego,10
+37,Building / Hand,11
+37,Lego,12
+37,Building / Hand,13
+37,Instruction 2,13
+37,Building / Hand,14
+37,Lego,15
+37,Building / Hand,16
+37,Lego,16
+37,Building / Hand,17
+37,Lego,17
+37,Building / Hand,18
+37,Lego,19
+37,Instruction 2,21
+37,Building / Hand,21
+37,Instruction 2,22
+37,Instruction 1,24
+37,Building / Hand,26
+37,Lego,26
+37,Building / Hand,27
+37,Instruction 2,28
+37,Building / Hand,28
+37,Lego,29
+37,Building / Hand,29
+37,Lego,30
+37,Instruction 2,32
+37,Building / Hand,33
+37,Lego,36
+37,Building / Hand,37
+37,Lego,39
+37,Instruction 2,40
+37,Instruction 1,41
+37,Instruction 2,41
+37,Turned page,42
+39,Instruction 1,0
+39,Instruction 2,2
+39,Instruction 1,5
+39,Lego,7
+39,Instruction 1,8
+39,Instruction 2,10
+39,Lego,11
+39,Building / Hand,12
+39,Instruction 2,12
+39,Building / Hand,13
+39,Lego,15
+39,Instruction 1,16
+39,Instruction 2,17
+39,Building / Hand,17
+39,Lego,18
+39,Instruction 2,18
+39,Instruction 1,19
+39,Building / Hand,19
+39,Instruction 1,21
+39,Instruction 2,22
+39,Instruction 1,22
+39,Turned page,22
+40,Lego,0
+40,Instruction 1,1
+40,Instruction 2,3
+40,Instruction 1,4
+40,Building / Hand,5
+40,Instruction 2,7
+40,Lego,9
+40,Instruction 2,12
+40,Building / Hand,13
+40,Instruction 2,14
+40,Building / Hand,15
+40,Lego,19
+40,Building / Hand,20
+40,Lego,21
+40,Instruction 2,22
+40,Building / Hand,22
+40,Instruction 2,25
+40,Turned page,26
+41,Instruction 1,2
+41,Instruction 2,4
+41,Lego,4
+41,Instruction 1,5
+41,Instruction 2,6
+41,Instruction 1,6
+41,Lego,7
+41,Instruction 2,8
+41,Lego,9
+41,Building / Hand,10
+41,Lego,10
+41,Building / Hand,11
+41,Instruction 2,12
+41,Instruction 1,13
+41,Instruction 2,14
+41,Turned page,16
+42,Lego,0
+42,Instruction 1,0
+42,Lego,1
+42,Instruction 2,2
+42,Instruction 1,2
+42,Instruction 2,3
+42,Instruction 1,3
+42,Lego,3
+42,Building / Hand,4
+42,Lego,7
+42,Instruction 1,13
+42,Turned page,14
+43,Instruction 2,0
+43,Instruction 1,3
+43,Lego,3
+43,Instruction 2,4
+43,Lego,7
+43,Instruction 2,9
+43,Building / Hand,10
+43,Lego,10
+43,Instruction 2,11
+43,Lego,15
+43,Building / Hand,16
+43,Lego,17
+43,Building / Hand,18
+43,Lego,20
+43,Building / Hand,21
+43,Lego,25
+43,Instruction 2,27
+43,Building / Hand,28
+43,Lego,32
+43,Building / Hand,35
+43,Instruction 2,37
+43,Turned page,39
+44,Lego,0
+44,Instruction 2,1
+44,Lego,4
+44,Instruction 2,5
+44,Instruction 1,5
+44,Building / Hand,6
+44,Instruction 1,8
+44,Lego,10
+44,Building / Hand,12
+44,Instruction 2,13
+44,Instruction 1,14
+44,Turned page,15
+45,Instruction 1,0
+45,Instruction 2,0
+45,Lego,3
+45,Instruction 2,4
+45,Lego,5
+45,Instruction 2,6
+45,Building / Hand,7
+45,Instruction 2,8
+45,Building / Hand,9
+45,Lego,10
+45,Building / Hand,11
+45,Instruction 2,12
+45,Lego,13
+45,Building / Hand,13
+45,Lego,15
+45,Instruction 1,16
+45,Lego,17
+45,Turned page,18
+46,Instruction 2,0
+46,Lego,0
+46,Instruction 2,1
+46,Instruction 1,1
+46,Lego,2
+46,Instruction 1,3
+46,Instruction 2,3
+46,Lego,3
+46,Instruction 2,4
+46,Lego,5
+46,Building / Hand,7
+46,Instruction 2,7
+46,Lego,8
+46,Building / Hand,9
+46,Instruction 2,10
+46,Lego,11
+46,Building / Hand,12
+46,Instruction 2,12
+46,Instruction 1,13
+46,Turned page,14
+47,Lego,0
+47,Instruction 2,1
+47,Building / Hand,1
+47,Instruction 1,2
+47,Lego,6
+47,Instruction 1,7
+47,Instruction 2,9
+47,Lego,11
+47,Building / Hand,14
+47,Instruction 2,15
+47,Building / Hand,15
+47,Lego,16
+47,Building / Hand,16
+47,Instruction 1,20
+47,Turned page,20
+49,Instruction 1,0
+49,Lego,2
+49,Instruction 1,3
+49,Turned page,5
+49,Instruction 1,7
+49,Instruction 2,8
+49,Instruction 1,9
+49,Lego,10
+49,Instruction 1,11
+49,Lego,12
+49,Instruction 1,13
+49,Instruction 2,14
+49,Lego,15
+49,Instruction 2,17
+49,Instruction 1,17
+49,Instruction 2,18
+49,Building / Hand,19
+49,Instruction 2,20
+49,Building / Hand,24
+49,Instruction 2,24
+49,Building / Hand,25
+49,Lego,29
+49,Building / Hand,30
+49,Instruction 2,31
+49,Instruction 1,31
+49,Building / Hand,32
+49,Lego,33
+49,Instruction 1,34
+49,Building / Hand,35
+49,Instruction 2,37
+49,Instruction 1,38
+49,Turned page,39
+50,Instruction 1,0
+50,Lego,1
+50,Instruction 2,2
+50,Lego,3
+50,Building / Hand,4
+50,Lego,5
+50,Building / Hand,6
+50,Lego,8
+50,Building / Hand,12
+50,Turned page,15
+51,Lego,0
+51,Instruction 1,1
+51,Lego,1
+51,Instruction 1,3
+51,Lego,3
+51,Instruction 1,4
+51,Instruction 2,4
+51,Lego,5
+51,Building / Hand,7
+51,Lego,7
+51,Instruction 2,8
+51,Lego,9
+51,Instruction 2,10
+51,Building / Hand,12
+51,Instruction 2,13
+51,Building / Hand,14
+51,Lego,16
+51,Instruction 2,16
+51,Lego,17
+51,Building / Hand,18
+51,Lego,21
+51,Building / Hand,22
+51,Instruction 2,23
+51,Building / Hand,24
+51,Instruction 2,25
+51,Instruction 1,25
+51,Instruction 2,27
+51,Turned page,28
+2,Instruction 1,2
+2,Lego,3
+2,Instruction 2,4
+2,Instruction 1,5
+2,Lego,9
+2,Instruction 1,11
+2,Instruction 2,11
+2,Instruction 1,14
+2,Lego,16
+2,Instruction 1,18
+2,Instruction 2,19
+2,Lego,20
+2,Instruction 2,21
+2,Lego,21
+2,Building / Hand,23
+2,Instruction 1,27
+2,Turned page,27
+3,Lego,4
+3,Instruction 1,5
+3,Lego,8
+3,Instruction 1,9
+3,Lego,10
+3,Instruction 1,13
+3,Lego,14
+3,Instruction 1,15
+3,Lego,16
+3,Instruction 1,18
+3,Instruction 2,22
+3,Lego,22
+3,Instruction 2,23
+3,Lego,24
+3,Building / Hand,24
+3,Lego,26
+3,Building / Hand,27
+3,Lego,28
+3,Building / Hand,29
+3,Instruction 1,30
+3,Instruction 2,30
+3,Building / Hand,30
+3,Instruction 1,31
+3,Turned page,32
+4,Instruction 1,2
+4,Instruction 2,5
+4,Lego,6
+4,Instruction 2,7
+4,Lego,9
+4,Building / Hand,11
+4,Instruction 2,14
+4,Instruction 1,15
+4,Lego,16
+4,Building / Hand,16
+4,Instruction 2,19
+4,Lego,20
+4,Instruction 1,21
+4,Building / Hand,22
+4,Turned page,23
+5,Instruction 1,2
+5,Lego,3
+5,Building / Hand,5
+5,Instruction 1,7
+5,Lego,9
+5,Instruction 2,12
+5,Instruction 1,12
+5,Lego,13
+5,Building / Hand,14
+5,Instruction 1,15
+5,Instruction 2,16
+5,Building / Hand,16
+5,Instruction 2,17
+5,Lego,18
+5,Instruction 1,20
+5,Building / Hand,21
+5,Lego,23
+5,Turned page,24
+5,Instruction 1,25
+5,Instruction 2,26
+5,Turned page,26
+8,Instruction 1,2
+8,Instruction 2,5
+8,Lego,5
+8,Instruction 2,6
+8,Lego,8
+8,Instruction 2,9
+8,Lego,10
+8,Instruction 2,13
+8,Lego,14
+8,Building / Hand,19
+8,Lego,20
+8,Building / Hand,21
+8,Turned page,22
